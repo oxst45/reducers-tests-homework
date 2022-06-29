@@ -1,0 +1,9 @@
+
+.filterActive {
+    background-color: lightgreen;
+}
+
+.invalid {
+    color: red;
+    font-weight: bold;
+}
